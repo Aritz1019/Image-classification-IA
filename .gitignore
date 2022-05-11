@@ -130,3 +130,4 @@ dmypy.json
 
 # Folders
 image_processing/
+image_preprocessing_v2/
